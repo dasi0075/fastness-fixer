@@ -431,19 +431,6 @@
 
 }
 
-.unit-content-distribute,
-.content-distribute {
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  display: flex;
-  -ms-flex-direction: column;
-  -webkit-flex-direction: column;
-  flex-direction: column;
-  -ms-flex-pack: justify;
-  -webkit-justify-content: space-between;
-  justify-content: space-between;
-}
-
 .content-fill,
 .content-stretch {
   -ms-flex-grow: 2;
